@@ -1,7 +1,7 @@
 # This is sample web starter
 The course is for DevOps pratice.
 
-#Intro
+# Intro
 This has many lectures.
 
 # Starter Web Repo

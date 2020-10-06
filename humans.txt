@@ -15,6 +15,5 @@
 
     HTML5, CSS3
     jQuery, Modernizr, AJAX
-<<<<<<< HEAD
 	GIT, JENKINS, DOCKER, KUBERNETES
 

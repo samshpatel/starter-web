@@ -16,4 +16,3 @@
     HTML5, CSS3
     jQuery, Modernizr, AJAX
 	GIT, JENKINS, DOCKER, KUBERNETES
-

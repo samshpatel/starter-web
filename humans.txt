@@ -8,6 +8,9 @@ Hi, I am modifying the file before rebase.
     <name> -- <role> -- <twitter>
 	
 	<name> -- Samsher -- <twitter>
+	
+	Devops Engineer
+	IT Organization
 
 # THANKS
 

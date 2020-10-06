@@ -15,4 +15,4 @@ Sample website with plenty of files for demos
 ## Training Details
 This has GIT JENKINS DOCKER KUBERNETES
 
-GIT Rebase example
+GIT Rebase example. We have done so much of work together.

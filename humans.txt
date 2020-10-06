@@ -4,6 +4,8 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	
+	<name> -- Samsher -- <twitter>
 
 # THANKS
 

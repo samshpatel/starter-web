@@ -29,6 +29,7 @@ Doing some changes on local.
     HTML5, CSS3
     jQuery, Modernizr, AJAX
 	GIT, JENKINS, DOCKER, KUBERNETES
+	AWS Architect
 	
 #GIT stash examples
 This is lready tracked file.

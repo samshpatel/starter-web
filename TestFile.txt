@@ -1,1 +1,3 @@
+This is GIT tagging
+
 THis is sample text to be written to file

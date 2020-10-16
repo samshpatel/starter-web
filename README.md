@@ -18,3 +18,6 @@ Sample website with plenty of files for demos
 This has GIT JENKINS DOCKER KUBERNETES
 
 GIT Rebase example. We have done so much of work together.
+
+#STASH
+stash training
